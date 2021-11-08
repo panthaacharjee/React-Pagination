@@ -1,0 +1,30 @@
+.product{
+    margin: 60px 0px;
+}
+.img{
+    height: 250px;
+}
+.product img{
+    height: 180px;
+    width: 250px;
+    margin-bottom: 40px;
+}
+.cart-btn{
+    border:2px solid black;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 19px;
+    background-color: thistle;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.cart-btn:active{
+    font-size: 16px;
+}
+.pagination{
+    font-size: 20px;
+    font-weight: bold;
+}
+.page-link{
+    padding: 15px 25px;
+}
